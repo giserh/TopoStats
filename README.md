@@ -1,5 +1,5 @@
 # TopoStats
-ArcPy script to extract DEM statistics from polygonal areas. Buffer points, mosaic DEMs, zonal statistics, join. Requires Spatial Analyst extension.
+ArcPy script to extract DEM statistics from polygonal areas. Buffer points, mosaic DEMs, zonal statistics, extract values. Requires Spatial Analyst extension.
 
 Rob Sowby
 
