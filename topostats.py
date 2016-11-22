@@ -1,7 +1,7 @@
 # TopoStats
 # Rob Sowby
 # Nov. 14, 2016
-
+# Hansenn, Allen & Luce / University of Utah
 import arcpy
 
 
