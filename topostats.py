@@ -1,9 +1,9 @@
 # TopoStats
 # Rob Sowby
-# Nov. 14, 2016
 # Hansenn, Allen & Luce / University of Utah
-import arcpy
+# Nov. 14, 2016
 
+import arcpy
 
 # Local variables:
 Survey_Points = "C:\\Users\\rsowby\\Desktop\\EI GIS\\Data\\wsed-2016-09-30-final.shp"
