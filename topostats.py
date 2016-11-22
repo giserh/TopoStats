@@ -2,7 +2,6 @@
 # Rob Sowby
 # Nov. 14, 2016
 
-# Import arcpy module
 import arcpy
 
 
